@@ -11,7 +11,8 @@ const MainContainer = () => {
             <h1>Address:</h1>
             <h1>Jagan Cake Bakery</h1>
             <h2>Balitutha,Kujang,</h2>
-            <h2>Jagatsinghpur,Odisha,754141</h2>
+            <h2>Jagatsinghpur,</h2>
+             <h2>Odisha,754141</h2>
           </div>
           <div id='price'>
             <h1>Price:</h1>
