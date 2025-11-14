@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div id='navbar'>
             <div id='logo'>
-                <Link to={"/"}><img src="../../../public/logo.jpg" alt="" style={{ width: "78px", height: "78px", borderRadius: "50%", objectFit: "cover", cursor: "pointer" }} /></Link>
+                <Link to={"/"} style={{textDecoration:"none",fontFamily:"sans-serif",fontSize:"x-large",fontWeight:"bold"}}>JAGAN</Link>
             </div>
             <div id='list'>
                 <ul id='nav_list'>
